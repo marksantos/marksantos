@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Mark Dexter Santos</h2>
+<h2>Mark Santos</h2>
 <p><em>Executive Director and Principal Consultant @ <a href="https://greyspark.com/">GreySpark Partners</a>
 </em></p>
 
