@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <h2>Mark Santos</h2>
-<p><em>Executive Director and Principal Consultant @<a href="https://greyspark.com/">GreySpark Partners</a>
-</em></p>
 
 [![Linkedin: santosmd](https://img.shields.io/badge/-santosmd-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santosmd/)](https://www.linkedin.com/in/santosmd/)
 [![Twitter: dexjen23](https://img.shields.io/twitter/follow/dexjen23?style=social)](https://twitter.com/dexjen23)
